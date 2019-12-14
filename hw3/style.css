@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+}
+.headerMenu{
+    text-align: center;
+
+}
+.fantasy{
+    display: inline-block;
+    width: 48%;
+}
+.menu li{
+    display: inline-block;
+    margin-left:20px;
+    font-family: 'Permanent Marker', cursive;
+}
+.menu{
+    display: inline-block;
+    
+}
+.outer{
+    display: inline-block;
+    width: 500px;
+    height: 600px;
+    border: aquamarine 1 px solid;
+    padding: 0 50px;
+}
+h2{
+    font-size: 30px;
+    color: #626262;
+    font-family: "Playfair Display";
+    font-weight: 400;
+}
+p{
+    font-size: 14px;
+    line-height: 24px;
+    color: #626262;
+    font-family: "Playfair Display";
+    font-weight: 400;
+}
+.categoty{
+    font-family: Ubuntu;
+}
+main{
+    width:960px;
+    margin:0 auto;
+}
