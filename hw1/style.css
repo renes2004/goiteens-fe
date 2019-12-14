@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+}
+.fantasy{
+    display: inline-block;
+    width: 48%;
+}
+.menu li{
+    display: inline-block;
+    margin-left:20px;
+    font-family: 'Permanent Marker', cursive;
+}
+.menu{
+    display: inline-block;
+    
+}
+.outer{
+    display: inline-block;
+    width: 500px;
+    height: 600px;
+    border: aquamarine 1 px solid;
+    padding: 0 50px;
+}
