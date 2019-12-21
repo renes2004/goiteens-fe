@@ -1,0 +1,38 @@
+.headerlist{
+    display:inline-block;
+    list-style: none;
+}
+.logo, .headerNav{
+    display:inline-block;
+}
+.logo{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #555252;
+}
+.logo::first-letter {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    color: #1abc9c;
+  }
+  
+.headerNav{
+    margin-left:600px;
+}
+header{
+    width:960px;
+    margin:0 auto;
+    border: 1px solid;
+}
+.headerlist
+{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #0f0101;
+    margin-left: 25px;}
+.headerlist a{
+    color:black;
+    text-decoration: none;
+}
